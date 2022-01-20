@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Noah's Personal Site #
+
+### Welcome, make yourself at home! ###
